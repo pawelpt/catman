@@ -76,8 +76,8 @@ cp ${apache_group_file} ${apache_group_file}.bk
 ls -lart ${apache_group_file} ${apache_group_file}.bk
 
 cat <<EOF >${apache_group_file}
-switche_app_dostep: ptrepka27${acl_list}
-switche_app_admins: ptrepka27 penglisz02 lszulc11 mswierczek02 ldrzyzga73
+switche_app_dostep: <your_ad_login_anme>${acl_list}
+switche_app_admins: <your_ad_login_anme> <your_ad_coadmins_colleagues> .... <last_of_your_ad_coadmins_colleagues>
 EOF
 
 cat ${apache_group_file}
