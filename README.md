@@ -24,6 +24,14 @@ Designated for 3550/3750 standalone and stacked way of implementation
 
 # How it work
 
+# Requirements
+1. Working AD
+2. SAMBA installed and configured
+3. Add host to AD
+4. Configured Apache
+
+Mainly soft was deployed at SuSE, so you may require adapt it to your own.
+
 # Scripts
 
 ## build AD Access group for Apache

@@ -4,3 +4,5 @@ examples/
 home/
 root/
 var/
+*.tar.*
+*.md5
