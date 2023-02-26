@@ -1,6 +1,0 @@
-invalid command name "default"
-    while executing
-"default {
-	showDevID $IPs $myDate $Uname $PassAuth $PassEnable
-}"
-    (file "./send-ssh.cgi" line 515)
