@@ -4,7 +4,7 @@
 Designated for 3550/3750 standalone and stacked way of implementation
 
 
-# Fully besed at opensource architecture stack
+# Fully based at opensource architecture stack
 
 # Volounteer welcome
 ```
