@@ -1,0 +1,42 @@
+# Parameters
+# IP : dev.name : acces-pass : enable-pass : vlan-Voice : vlan-Data
+# 10.11.99.51:3550_managment:AccesPASSWD:EnablePasswd:7:1
+10.11.99.52:3550_PROD:AccesPASSWD:EnablePasswd:7:1
+# 10.11.99.60:3550_ser1:AccesPASSWD:EnablePasswd:7:1
+# replace by 4500 & aruba
+# 10.11.99.61:3550_ser2:AccesPASSWD:EnablePasswd:7:1
+# 10.11.99.62:3550_ser3:AccesPASSWD:EnablePasswd:7:1
+# 10.11.99.63:3550_ser4:AccesPASSWD:EnablePasswd:7:1
+# 10.11.99.64:3550_ser5:AccesPASSWD:EnablePasswd:7:1
+# replace by 4500 & aruba
+# 10.11.99.65:3550_ser6:AccesPASSWD:EnablePasswd:7:1
+# 10.11.99.66:3550_ser7:AccesPASSWD:EnablePasswd:7:1
+# 10.11.99.67:3550_ser8:AccesPASSWD:EnablePasswd:7:1
+# 10.11.99.68:3550_ser9:AccesPASSWD:EnablePasswd:7:1
+# replace by 4500 & aruba
+# 10.11.99.69:3550_ser10:AccesPASSWD:EnablePasswd:7:1
+# 
+10.11.99.101:3750_STACK_IDF1:AccesPASSWD:EnablePasswd:7:1
+10.11.99.102:3750_STACK_IDF2:AccesPASSWD:EnablePasswd:7:1
+10.11.99.103:3750_IDF3:AccesPASSWD:EnablePasswd:7:1
+10.11.99.104:3750_STACK_IDF4:AccesPASSWD:EnablePasswd:7:1
+10.11.99.105:3750_STACK_IDF5:AccesPASSWD:EnablePasswd:7:1
+10.11.99.106:3750_IDF6:AccesPASSWD:EnablePasswd:7:1
+10.11.99.107:3750_IDF7:AccesPASSWD:EnablePasswd:7:1
+10.11.99.108:3750_STACK_IDF8:AccesPASSWD:EnablePasswd:7:1
+10.11.99.109:3750_STACK_IDF9:AccesPASSWD:EnablePasswd:7:1
+10.11.99.110:3750_IDF10:AccesPASSWD:EnablePasswd:7:1
+10.11.99.111:3750_STACK_IDF11:AccesPASSWD:EnablePasswd:7:1
+10.11.99.112:3750_IDF12:AccesPASSWD:EnablePasswd:7:1
+10.11.99.113:3750_STACK_IDF13:AccesPASSWD:EnablePasswd:7:1
+10.11.99.114:3750_STACK_IDF14:AccesPASSWD:EnablePasswd:7:1
+10.11.99.115:3750_STACK_IDF15:AccesPASSWD:EnablePasswd:7:1
+10.11.99.116:3750_STACK_IDF16:AccesPASSWD:EnablePasswd:7:1
+# 
+10.11.99.140:3750_STACK_DC4_IDF1:AccesPASSWD:EnablePasswd:7:1
+10.11.99.141:3750_DC4_IDF2:AccesPASSWD:EnablePasswd:7:1
+10.11.99.142:3750_DC4_IDF3:AccesPASSWD:EnablePasswd:7:1
+# 
+10.11.99.151:3750_STACK_DC1_IDF1:AccesPASSWD:EnablePasswd:7:1
+10.11.99.152:3750_STACK_DC1_IDF2:AccesPASSWD:EnablePasswd:7:1
+10.11.99.153:3750_DC1_IDF3:AccesPASSWD:EnablePasswd:7:1

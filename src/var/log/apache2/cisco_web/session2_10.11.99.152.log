@@ -1,0 +1,28 @@
+
+### MAC Search 10.11.99.152 / 04d9.f5d6.2ffc
+spawn /usr/bin/ssh -2 -o StrictHostKeyChecking=no -o KexAlgorithms=diffie-hellman-group1-sha1 -o StrictHostKeyChecking=no technicy@10.11.99.152
+Failed to add the host to the list of known hosts (/var/lib/wwwrun/.ssh/known_hosts).
+Password: 
+
+3750_STACK_DC1_IDF2#terminal length 512
+3750_STACK_DC1_IDF2#sh mac address-table | include 04d9.f5d6.2ffc
+3750_STACK_DC1_IDF2#
+
+### MAC Search 10.11.99.152 / 04d9.f5d6.2ffc
+spawn /usr/bin/ssh -2 -o StrictHostKeyChecking=no -o KexAlgorithms=diffie-hellman-group1-sha1 -o StrictHostKeyChecking=no technicy@10.11.99.152
+Failed to add the host to the list of known hosts (/var/lib/wwwrun/.ssh/known_hosts).
+Password: 
+
+3750_STACK_DC1_IDF2#terminal length 512
+3750_STACK_DC1_IDF2#sh mac address-table | include 04d9.f5d6.2ffc
+3750_STACK_DC1_IDF2#
+
+### MAC Search 10.11.99.152 / 04d9.f5d6.2ffc
+spawn /usr/bin/ssh -2 -o StrictHostKeyChecking=no -o KexAlgorithms=diffie-hellman-group1-sha1 -o StrictHostKeyChecking=no technicy@10.11.99.152
+Failed to add the host to the list of known hosts (/var/lib/wwwrun/.ssh/known_hosts).
+Password: 
+
+3750_STACK_DC1_IDF2#terminal length 512
+3750_STACK_DC1_IDF2#sh mac address-table | include 04d9.f5d6.2ffc
+1135    04d9.f5d6.2ffc    DYNAMIC     Po43
+3750_STACK_DC1_IDF2#

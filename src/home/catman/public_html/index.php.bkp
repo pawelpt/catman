@@ -1,0 +1,13 @@
+<?php
+
+$host = $_SERVER['HTTP_HOST'];
+$hosts=array(
+    'switche.local.pl',
+    'switche',
+    );
+
+if(in_array($host, $hosts)) {
+        header('Location: http://switche.local.pl:80');
+}
+
+?>

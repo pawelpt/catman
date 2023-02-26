@@ -1,0 +1,33 @@
+
+### start device dialog showDevID 10.11.99.100 12:22:43 08 Oct 2018 ###
+spawn /usr/bin/ssh -2 -o StrictHostKeyChecking=no -o KexAlgorithms=diffie-hellman-group1-sha1 -o StrictHostKeyChecking=no technicy@10.11.99.100
+Drosetux12
+enable 2
+PD7RnAA2Cfp7S67
+terminal length 512
+show version
+show clock
+show int status
+show vlan
+
+### start device dialog showDevID 10.11.99.100 12:30:36 08 Oct 2018 ###
+spawn /usr/bin/ssh -2 -o StrictHostKeyChecking=no -o KexAlgorithms=diffie-hellman-group1-sha1 -o StrictHostKeyChecking=no technicy@10.11.99.100
+
+enable 2
+
+
+### start device dialog showDevID 10.11.99.100 12:30:52 08 Oct 2018 ###
+spawn /usr/bin/ssh -2 -o StrictHostKeyChecking=no -o KexAlgorithms=diffie-hellman-group1-sha1 -o StrictHostKeyChecking=no technicy@10.11.99.100
+terminal length 512
+
+show version
+enable 2
+show clock
+
+show int status
+terminal length 512
+show vlan
+show version
+show clock
+show int status
+show vlan

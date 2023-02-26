@@ -1,0 +1,41 @@
+##########################################################################
+#
+# This is CatMan common config file
+#
+# syntax is 
+#	key="value"
+# 
+##########################################################################
+#
+# Specify destination email
+mailto="yourname.lastname@your.domain.com"
+
+# General devices file configuration including details.
+cidevices="/etc/catman/router.list/devices"
+
+# Specify usage of .mutrc,
+# Not applied yet for usage
+operator="minimaxi"
+
+# Specify config mail from, the sender mail ID
+# Not applied yet for usage
+mailfrom="CiscoWebAdmin@your.domain.com"
+
+# specify file location of dialog with cisco device
+#cidialog="/srv/www/cgi-bin/send-ssh.cgi"
+cidialog="/var/lib/catman/send-ssh.cgi"
+
+# config TOP.html
+tophtml="/home/catman/public_html/htdocs/top.html"
+
+# list of devices in shift
+changehtml="changes.html"
+
+# allowed VLans
+allowvlan="/etc/catman/vlan_allow"
+
+# CGI-BIN server side conf URL/DIR
+cgibinurl="/cgi-bin/catman.cgi"
+
+# for device admin: register changes to overview
+actionlog="/home/catman/public_html/htdocs/admin/actionlogs/"
